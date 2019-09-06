@@ -1,0 +1,17 @@
+
+1-> git status
+
+2-> git --version 
+
+3-> git config --global user.email
+
+4-> git config --global user.name 
+
+5-> git init    (intilization)
+
+6-> git commit -m "message"
+
+7-> git status
+
+
+
